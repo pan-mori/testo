@@ -1,0 +1,109 @@
+
+
+ @font-face { font-family:AmaticSC-Bold; src: url('AmaticSC-Bold.ttf'); } 
+
+
+#square {
+  width: 20em;
+  height: 20em;
+  border: 2px inset gray;
+  margin-bottom: 1em;
+}
+ 
+
+html{
+    
+background-color:#FF4200;
+}
+
+vel{
+    background-color: #222;
+    color: red;
+    font-size: 60px;
+    
+}    
+    
+
+header{ 
+    height: 100px;
+    background-color:#FF4200;
+    
+    
+    }
+body{
+    
+   background-color:white;
+}
+.h{
+    font-family: 'AmaticSC-Bold', cursive;
+    font-weight: 700;
+    font-size: 5em;
+    text-align: center;
+    color: white;
+    vertical-align: middle;  
+    
+}
+.logoimg{
+    display: inline-block;
+    
+}
+.logoimgs{
+       height: 96px;
+   
+}
+
+article{
+    margin: auto;
+    
+}
+.zarov {
+    
+    border-color: #FF4200;
+    border-style: outset;
+}
+
+.nadpi{
+      background-color: white;
+    margin-top: 50px;
+    border-top-width: 15px;
+    border-color: #FF4200;
+    border-style: outset;
+    
+}
+    
+
+#custom-search-input{
+    display: inline-block;
+    padding: 3px;
+    border: solid 1px #E4E4E4;
+    border-radius: 6px;
+    background-color: #fff;
+}
+
+#custom-search-input input{
+    display: inline-block;
+    border: 0;
+    box-shadow: none;
+}
+
+#custom-search-input button{
+    display: inline-block;
+    margin: 2px 0 0 0;
+    background: none;
+    box-shadow: none;
+    border: 0;
+    color: #666666;
+    padding: 0 8px 0 10px;
+    border-left: solid 1px #ccc;
+}
+
+#custom-search-input button:hover{
+    display: inline-block;
+    border: 0;
+    box-shadow: none;
+    border-left: solid 1px #ccc;
+}
+
+#custom-search-input .glyphicon-search{
+    font-size: 23px;
+}
