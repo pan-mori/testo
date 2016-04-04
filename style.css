@@ -16,6 +16,8 @@ html{
 background-color:#FF4200;
 }
 
+
+
 vel{
     background-color: #222;
     color: red;
@@ -106,4 +108,10 @@ article{
 
 #custom-search-input .glyphicon-search{
     font-size: 23px;
+}
+
+.vernav{
+   margin-top: 50px;
+   
+    
 }
