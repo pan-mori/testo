@@ -13,7 +13,7 @@
 
 html{
     
-background-color:#FF4200;
+background-color:#996633;
 }
 
 
@@ -28,7 +28,7 @@ vel{
 
 header{ 
     height: 100px;
-    background-color:#FF4200;
+    background-color:#996633;
     
     
     }
@@ -36,8 +36,24 @@ body{
     
    background-color:white;
 }
+
+#container {
+    background: #DDD;
+    max-width: 1000px;
+}
+.item {
+    width: 200px;
+    float: left;
+}
+.item img {
+    display: block;
+    width: 100%;
+}
+button {
+    font-size: 18px;
+}
 .h{
-    font-family: 'AmaticSC-Bold', cursive;
+    font-family: 'helvetica', cursive;
     font-weight: 700;
     font-size: 5em;
     text-align: center;
@@ -60,15 +76,15 @@ article{
 }
 .zarov {
     
-    border-color: #FF4200;
+    border-color: #996633;
     border-style: outset;
 }
 
 .nadpi{
       background-color: white;
-    margin-top: 50px;
+    
     border-top-width: 15px;
-    border-color: #FF4200;
+    border-color:#996633;
     border-style: outset;
     
 }
@@ -111,7 +127,8 @@ article{
 }
 
 .vernav{
-   margin-top: 50px;
+     border: 0;
+    border-right: 1px solid #eee;
    
     
 }
